@@ -1,4 +1,6 @@
-﻿namespace DataAccess;
+﻿using BusinessObjects;
+
+namespace DataAccess;
 
 public class CategoryDAO
 {
