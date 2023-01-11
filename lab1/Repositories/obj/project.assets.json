@@ -3405,19 +3405,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hoang Long\\.nuget\\packages\\": {}
+    "C:\\Users\\hamen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\Hoang Long\\.nuget\\packages\\",
-      "outputPath": "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\Repositories\\obj\\",
+      "projectPath": "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\hamen\\.nuget\\packages\\",
+      "outputPath": "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hoang Long\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3431,11 +3431,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\MY LIFE\\FPT UNIVERSITY\\KI_8\\PRN231\\lab1\\lab1_prn231\\lab1\\DataAccess\\DataAccess.csproj"
+            "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Study at FPTU\\Major 8\\PRN231\\Week02\\lab1_prn231\\lab1\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -3455,8 +3455,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -3465,7 +3464,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
